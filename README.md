@@ -24,6 +24,9 @@ https://github.com/ValdemarOrn/Polyhedrus
 
 ![](https://github.com/ValdemarOrn/Polyhedrus/blob/master/Polyhedrus.png)
 
+##### NAudio-Synth
+https://github.com/mihaits/NAudio-Synth
+
 ##### Unity Moog Synth
 https://github.com/schmid/Unity-Moog-Synth
 
