@@ -23,3 +23,8 @@ https://github.com/essenbee/synthesizer
 https://github.com/ValdemarOrn/Polyhedrus
 
 ![](https://github.com/ValdemarOrn/Polyhedrus/blob/master/Polyhedrus.png)
+
+##### Unity Moog Synth
+https://github.com/schmid/Unity-Moog-Synth
+
+![](https://github.com/schmid/MoogSynth/blob/master/screenshot.png)
