@@ -1,7 +1,23 @@
 # DevRessources
 My currated list of dev ressources
 
-## C#
+## .NET
+### Build system
+#### CakeBuild
+https://cakebuild.net/
+### Core
+https://docs.microsoft.com/en-us/dotnet/core/
+https://docs.microsoft.com/en-us/dotnet/core/tutorials/
+
+### UI
+https://docs.microsoft.com/en-us/windows/uwp/design/
+
+#### WPF
+https://docs.microsoft.com/en-us/visualstudio/designers/getting-started-with-wpf?view=vs-2019
+
+#### XAML
+https://docs.microsoft.com/en-us/visualstudio/designers/xaml-overview?view=vs-2019
+
 ### Libraries
 #### Audio
 https://github.com/topics/synthesizer?l=c%23&o=desc&s=stars
@@ -31,3 +47,7 @@ https://github.com/mihaits/NAudio-Synth
 https://github.com/schmid/Unity-Moog-Synth
 
 ![](https://github.com/schmid/MoogSynth/blob/master/screenshot.png)
+
+#### UI
+##### MaterialDesignTheme
+
