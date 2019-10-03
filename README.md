@@ -5,6 +5,9 @@ My currated list of dev ressources
 ### Build system
 #### CakeBuild
 https://cakebuild.net/
+### Doc system
+#### DocFX
+https://dotnet.github.io/docfx/
 ### Core
 https://docs.microsoft.com/en-us/dotnet/core/
 https://docs.microsoft.com/en-us/dotnet/core/tutorials/
